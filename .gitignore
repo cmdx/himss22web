@@ -1,0 +1,15 @@
+# Environments
+# .env
+.venv
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Uncompressed data directory
+data/
+
+# Mac files
+**/.DS_Store
